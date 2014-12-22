@@ -35,12 +35,7 @@ This keyboarded and encoded edition of the
 ##Content Summary##
 
 #####Front#####
-A BOOKE OF
-chriſtian Ethicks
-or Moral Philoſophie:
-Containing,
-The true difference and
-oppoſition, o
+
 1. To the worſhipfull
 and vertuous Gentleman,
 M. George Seintpolle Eſquire:
@@ -93,32 +88,28 @@ There are 63 **ommitted** fragments!
 |6.|__edition__|1||
 |7.|__editionStmt__|1||
 |8.|__editorialDecl__|1||
-|9.|__encodingDesc__|1||
-|10.|__extent__|2||
-|11.|__fileDesc__|1||
-|12.|__idno__|6| @__type__ (6) : DLPS (1), STC (2), EEBO-CITATION (1), PROQUEST (1), VID (1)|
-|13.|__keywords__|1| @__scheme__ (1) : http://authorities.loc.gov/ (1)|
-|14.|__label__|5||
-|15.|__langUsage__|1||
-|16.|__language__|1| @__ident__ (1) : eng (1)|
-|17.|__listPrefixDef__|1||
-|18.|__note__|6||
-|19.|__notesStmt__|2||
-|20.|__p__|11||
-|21.|__prefixDef__|2| @__ident__ (2) : tcp (1), char (1)  •  @__matchPattern__ (2) : ([0-9\-]+):([0-9IVX]+) (1), (.+) (1)  •  @__replacementPattern__ (2) : http://eebo.chadwyck.com/downloadtiff?vid=$1&page=$2 (1), https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1 (1)|
-|22.|__profileDesc__|1||
-|23.|__projectDesc__|1||
-|24.|__pubPlace__|2||
-|25.|__publicationStmt__|2||
-|26.|__publisher__|2||
-|27.|__ref__|2| @__target__ (2) : https://creativecommons.org/publicdomain/zero/1.0/ (1), http://www.textcreationpartnership.org/docs/. (1)|
-|28.|__revisionDesc__|1||
-|29.|__seriesStmt__|1||
-|30.|__sourceDesc__|1||
-|31.|__term__|1||
-|32.|__textClass__|1||
-|33.|__title__|3||
-|34.|__titleStmt__|2||
+|9.|__extent__|2||
+|10.|__idno__|6| @__type__ (6) : DLPS (1), STC (2), EEBO-CITATION (1), PROQUEST (1), VID (1)|
+|11.|__keywords__|1| @__scheme__ (1) : http://authorities.loc.gov/ (1)|
+|12.|__label__|5||
+|13.|__langUsage__|1||
+|14.|__language__|1| @__ident__ (1) : eng (1)|
+|15.|__listPrefixDef__|1||
+|16.|__note__|6||
+|17.|__notesStmt__|2||
+|18.|__p__|11||
+|19.|__prefixDef__|2| @__ident__ (2) : tcp (1), char (1)  •  @__matchPattern__ (2) : ([0-9\-]+):([0-9IVX]+) (1), (.+) (1)  •  @__replacementPattern__ (2) : http://eebo.chadwyck.com/downloadtiff?vid=$1&page=$2 (1), https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1 (1)|
+|20.|__projectDesc__|1||
+|21.|__pubPlace__|2||
+|22.|__publicationStmt__|2||
+|23.|__publisher__|2||
+|24.|__ref__|2| @__target__ (2) : https://creativecommons.org/publicdomain/zero/1.0/ (1), http://www.textcreationpartnership.org/docs/. (1)|
+|25.|__seriesStmt__|1||
+|26.|__sourceDesc__|1||
+|27.|__term__|1||
+|28.|__textClass__|1||
+|29.|__title__|3||
+|30.|__titleStmt__|2||
 
 
 ###Text Tag Usage###
@@ -126,22 +117,20 @@ There are 63 **ommitted** fragments!
 |No|element name|occ|attributes|
 |---|---|---|---|
 |1.|__am__|4||
-|2.|__body__|1||
-|3.|__closer__|2||
-|4.|__desc__|63||
-|5.|__div__|5| @__type__ (5) : title_page (1), dedication (1), to_the_reader (1), treatise (1), conclusion (1)|
-|6.|__ex__|4||
-|7.|__expan__|4||
-|8.|__front__|1||
-|9.|__g__|712| @__ref__ (712) : char:EOLhyphen (527), char:cmbAbbrStroke (133), char:EOLunhyphen (36), char:punc (12), char:abque (4)|
-|10.|__gap__|63| @__reason__ (63) : illegible (61), foreign (1), illegible: faint (1)  •  @__resp__ (61) : #TECH (61)  •  @__extent__ (62) : 1 letter (57), 2 letters (4), 1 word (1)|
-|11.|__head__|4||
-|12.|__hi__|398| @__rend__ (80) : sup (80)|
-|13.|__l__|63||
-|14.|__lg__|2||
-|15.|__note__|53| @__place__ (53) : margin (53)|
-|16.|__p__|34||
-|17.|__pb__|90| @__facs__ (90) : tcp:5974:1 (2), tcp:5974:2 (2), tcp:5974:3 (2), tcp:5974:4 (2), tcp:5974:5 (2), tcp:5974:6 (2), tcp:5974:7 (2), tcp:5974:8 (2), tcp:5974:9 (2), tcp:5974:10 (2), tcp:5974:11 (2), tcp:5974:12 (2), tcp:5974:13 (2), tcp:5974:14 (2), tcp:5974:15 (2), tcp:5974:16 (2), tcp:5974:17 (2), tcp:5974:18 (2), tcp:5974:19 (2), tcp:5974:20 (2), tcp:5974:21 (2), tcp:5974:22 (2), tcp:5974:23 (2), tcp:5974:24 (2), tcp:5974:25 (2), tcp:5974:26 (2), tcp:5974:27 (2), tcp:5974:28 (2), tcp:5974:29 (2), tcp:5974:30 (2), tcp:5974:31 (2), tcp:5974:32 (2), tcp:5974:33 (2), tcp:5974:34 (2), tcp:5974:35 (2), tcp:5974:36 (2), tcp:5974:37 (2), tcp:5974:38 (2), tcp:5974:39 (2), tcp:5974:40 (2), tcp:5974:41 (2), tcp:5974:42 (2), tcp:5974:43 (2), tcp:5974:44 (2), tcp:5974:45 (2)|
-|18.|__q__|5||
-|19.|__signed__|2||
-|20.|__trailer__|1||
+|2.|__closer__|2||
+|3.|__desc__|63||
+|4.|__div__|5| @__type__ (5) : title_page (1), dedication (1), to_the_reader (1), treatise (1), conclusion (1)|
+|5.|__ex__|4||
+|6.|__expan__|4||
+|7.|__g__|712| @__ref__ (712) : char:EOLhyphen (527), char:cmbAbbrStroke (133), char:EOLunhyphen (36), char:punc (12), char:abque (4)|
+|8.|__gap__|63| @__reason__ (63) : illegible (61), foreign (1), illegible: faint (1)  •  @__resp__ (61) : #TECH (61)  •  @__extent__ (62) : 1 letter (57), 2 letters (4), 1 word (1)|
+|9.|__head__|4||
+|10.|__hi__|398| @__rend__ (80) : sup (80)|
+|11.|__l__|63||
+|12.|__lg__|2||
+|13.|__note__|53| @__place__ (53) : margin (53)|
+|14.|__p__|34||
+|15.|__pb__|90| @__facs__ (90) : tcp:5974:1 (2), tcp:5974:2 (2), tcp:5974:3 (2), tcp:5974:4 (2), tcp:5974:5 (2), tcp:5974:6 (2), tcp:5974:7 (2), tcp:5974:8 (2), tcp:5974:9 (2), tcp:5974:10 (2), tcp:5974:11 (2), tcp:5974:12 (2), tcp:5974:13 (2), tcp:5974:14 (2), tcp:5974:15 (2), tcp:5974:16 (2), tcp:5974:17 (2), tcp:5974:18 (2), tcp:5974:19 (2), tcp:5974:20 (2), tcp:5974:21 (2), tcp:5974:22 (2), tcp:5974:23 (2), tcp:5974:24 (2), tcp:5974:25 (2), tcp:5974:26 (2), tcp:5974:27 (2), tcp:5974:28 (2), tcp:5974:29 (2), tcp:5974:30 (2), tcp:5974:31 (2), tcp:5974:32 (2), tcp:5974:33 (2), tcp:5974:34 (2), tcp:5974:35 (2), tcp:5974:36 (2), tcp:5974:37 (2), tcp:5974:38 (2), tcp:5974:39 (2), tcp:5974:40 (2), tcp:5974:41 (2), tcp:5974:42 (2), tcp:5974:43 (2), tcp:5974:44 (2), tcp:5974:45 (2)|
+|16.|__q__|5||
+|17.|__signed__|2||
+|18.|__trailer__|1||
